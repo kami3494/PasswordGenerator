@@ -21,5 +21,5 @@ if st.button("Generate Password"):
     st.success(f"Generated Password: `{password}`")
 
 st.write("---")
-st.write("Made by Ghulam Fiza")
+st.write("Made by Kamran ali")
     
